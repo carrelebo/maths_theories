@@ -1,0 +1,5 @@
+-faire des propriété sur les nombres imaginaire en créant des chiffres et nombres, et crée un genre de mathématique, mais spécifique pour les
+nombres imaginaire en partant de la base de l'enseignement des mathmatiques avec nombre réel.
+
+-faire des signe pour contracté l'écriture matématique, crée des signe et ajouter des propriétées, par exemple avec la création de signe doinier issue d'une ancienne idée
+que j'avais eu.
