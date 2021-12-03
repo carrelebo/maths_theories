@@ -1,0 +1,25 @@
+doine : répétition d'un chiffre inféfiniment
+
+nedoi : le tout dernier chiffre ou nombre; exemple avec 1/2^infinie et 0,9doine = 0,9999... = 1 ect...
+
+neodi : répétition d'un chiffre avec opération
+
+idée propriété "parondoinaise (up,down parendoines) : faire en sort de pouvoir écrire un infini ou nombre décimal comme ça : 555555555...333333333...44444444, ou utiliser la propriété des "midle doines" mais en "nombre" en faisant comme les point d'exclamation espagnole
+																(en trois parties)
+
+faire des opération comme 2doine + 1 ?; 2doinne + 1 = 2doine1nedoi
+
+pouvoir définir des infinité avec les signe doignier, par exemple : infini défénie par 3doine
+
+résoudre équation suivante : 7neodi(infinie définie par 2doine3denoi)
+
+
+9doine + 1 = ?
+propriété qi sera à définir dans le futur :
+9doine + 1 = 10doine
+ou
+9doine + 1 = 10doine dédini en doinier par 9doine +1
+
+parce que sinon le problème sera que
+
+9doine +1 < 9doine ?
