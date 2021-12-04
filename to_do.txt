@@ -7,5 +7,8 @@ imaginaire qui dépasse la physique et plus grand que l'infini lui même !
 
 
 
--faire des signe pour contracté l'écriture matématique, crée des signe et ajouter des propriétées, par exemple avec la création de signe doinier issue d'une ancienne idée
+-faire des signe pour contracté l'écriture matématique, crée des symboles et ajouter des propriétées, par exemple avec la création de signe doinier issue d'une ancienne idée
 que j'avais eu.
+
+
+-faire des symbole permettant de crée des choses qui ressemble à des "seed" en programmation, par exemple "tout les ..." "chaque ..." etc...
