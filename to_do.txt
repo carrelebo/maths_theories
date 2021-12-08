@@ -12,3 +12,6 @@ que j'avais eu.
 
 
 -faire des symbole permettant de crée des choses qui ressemble à des "seed" en programmation, par exemple "tout les ..." "chaque ..." etc...
+
+
+faire une formule pour trouver des nombee premier à tout ou presque tout les coup, un peu comme pour les nombre de mersenne premier.
