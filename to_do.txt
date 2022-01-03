@@ -15,3 +15,6 @@ que j'avais eu.
 
 
 faire une formule pour trouver des nombee premier à tout ou presque tout les coup, un peu comme pour les nombre de mersenne premier.
+
+
+-faire une formule pour calculer les factoriel et les suite de produit
