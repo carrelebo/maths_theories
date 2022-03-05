@@ -1,0 +1,11 @@
+Hyposthèse Snail : il existe une infinités de nombres premiers tout comme il existe une infinité de fonctions; 
+pour la fonction snail unifier, il peut y avoir une couche réservé à un nombre premier, 
+comme 19 pour les antécédent inférieur à 8 chiffres, il peut y en exister d'autres qui joue le même rôle et permettent d'éviter les no primes lands 
+et de trouver un nombre premier sur les térritoires
+"premier symétrique", par exemple pour l'emplacement des nombres premiers jumeaux.
+chaque nombre trouver pour la navigation permettra d'avancer sur la recherche de d'autres nombres premiers
+
+Hypothèse Shark : il existe une infinité de nombres premier tout comme il existe une infinité de fonctions;
+la fonction snail qui peut être 'lente'; il existe une fonctions qui permet d'être beaucoup plus rapide sur la recherche de nombre premier,
+cette fonction permet de 'navigué plus rapidement', c'est la fonction "par excelence" son nom "shark function", même fonctionnement que pour la recherche de nombres
+premier avec les foncions de type snail, mais doit marché à tout les coups sans aucune exception !
