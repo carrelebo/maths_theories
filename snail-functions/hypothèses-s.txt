@@ -1,4 +1,4 @@
-Hyposthèse Snail : il existe une infinités de nombres premiers tout comme il existe une infinité de fonctions; 
+Hyposthèse Snail : il existe une infinité de nombres premiers tout comme il existe une infinité de fonctions; 
 pour la fonction snail unifier, il peut y avoir une couche réservé à un nombre premier, 
 comme 19 pour les antécédent inférieur à 8 chiffres, il peut y en exister d'autres qui joue le même rôle et permettent d'éviter les no primes lands 
 et de trouver un nombre premier sur les térritoires
