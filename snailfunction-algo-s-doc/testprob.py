@@ -7,7 +7,7 @@ def primedetector(entry):
             return False
     return True
 
-othersnail = lambda s : 20*s + 59
+othersnail = lambda s : 20*s + 59 #fonciton modifiable
 
 def othersnailfunc():
     global yes
