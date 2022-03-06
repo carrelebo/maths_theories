@@ -8,4 +8,4 @@ chaque nombre trouver pour la navigation permettra d'avancer sur la recherche de
 Hypothèse Shark : il existe une infinité de nombres premier tout comme il existe une infinité de fonctions;
 la fonction snail qui peut être 'lente'; il existe une fonctions qui permet d'être beaucoup plus rapide sur la recherche de nombre premier,
 cette fonction permet de 'navigué plus rapidement', c'est la fonction "par excelence" son nom "shark function", même fonctionnement que pour la recherche de nombres
-premier avec les foncions de type snail, mais doit marché à tout les coups sans aucune exception !
+premier avec les foncions de type snail, mais doit marché à tout les coups sans aucune exception ! (sauf si le nombre et alors gigantesque mais une très forte probabilité)
