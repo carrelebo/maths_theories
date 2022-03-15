@@ -1,14 +1,21 @@
 -faire des propriété sur les nombres imaginaire en créant des chiffres et nombres, et crée un genre de mathématique, mais spécifique pour les
 nombres imaginaire en partant de la base de l'enseignement des mathmatiques avec nombre réel.
 
+
+
 nombre imaginaire inférieur et supérieur, par exemple i^2 = -1, i est un nombre imaginaire inféieur, exemple avec la bar verticale nombre réel et l'arc de cercle qui signifie 
 imaginaire, qui est vers la gauche et au delà "nedoi" (nom peut changer) qui vers la "gamme des bas" et trouver un nombre qui dépasse la barre des "hauteur" plus grand que un nombre réel. dexmple avec la bars et l'arc de cercle vers la droite de "doine" (nom peut changer), un nombre 
 imaginaire qui dépasse la physique et plus grand que l'infini lui même !
 
+15/03/2022:
+résumé : nombre imaginaire inférieur, des nombre inférieur à n'importe quelle Réel; des nombre imaginaire supérieur, des nombres supérieur à n'importe quelle réel;
+et nombre imaginaire ou intermédiaire -> nombre compréssé
+
+
 
 
 -faire des signe pour contracté l'écriture matématique, crée des symboles et ajouter des propriétées, par exemple avec la création de signe doinier issue d'une ancienne idée
-que j'avais eu.
+que j'avais eu. -> symbole doinier en cours
 
 
 -faire des symbole permettant de crée des choses qui ressemble à des "seed" en programmation, par exemple "tout les ..." "chaque ..." etc...
@@ -16,5 +23,9 @@ que j'avais eu.
 
 faire une formule pour trouver des nombres premiers à tout ou presque tout les coup, un peu comme pour les nombre de mersenne premier (qui ne marche pas à tous les coups).
 
+équivalent temriné et publier -> fonctions snail et algorithme "s"
+
 
 -faire une formule pour calculer les factoriel et les suite de produit
+
+équivelent non publier : utiliser la formule des somme de à un "n" de Gauss, donne une aproximation d'un factoriel à partir d'un nombre que l'on vas multiplier à chaque tour par 1,055
