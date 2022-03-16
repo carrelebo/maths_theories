@@ -2,7 +2,7 @@
 mes théorises, idées, questions sur les maths...
 
 en cours de réalistaiton :
-symbole doiniers, -> chapitre 3 : espace doinier avec "création d'ensemble"
+symbole doiniers, -> chapitre 3 : espace doinier avec "création d'ensemble" pour définir des infinité
                   -> chappitre 4: nombre compressé 
 
 terminé : 
