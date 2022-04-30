@@ -2,6 +2,12 @@ yes = 0
 no = 0
 
 def primedetector(entry):
+
+    if entry < 5:
+      for i in range(2, entry):
+        if entry % i == 0:
+          return False
+    
     for i in range(2, int((entry + 1)**0.5)):
         if entry % i == 0:
             return False
