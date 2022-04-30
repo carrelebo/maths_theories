@@ -6,7 +6,7 @@ symbole doiniers, -> chapitre 3 : espace doinier avec "création d'ensemble" pou
                   -> chappitre 4: nombre compressé 
 
 terminé : 
-
+*patch du code sur les pourcentage qui compait certain nombres premier alors qu'ils ne l'était pas, n'influe presque pas les résultats
 6 mars 2022 :
 fonction snail et algorithme "s" documentation -> vocabulaire : instance, génération, "no prime's land"; programmes : probabilité snailfuncdoc.py
 
