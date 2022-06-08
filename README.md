@@ -5,7 +5,7 @@ en cours de réalistaiton :
 symbole doiniers, -> chapitre 3 : espace doinier avec "création d'ensemble" pour définir des infinité
                   -> chappitre 4: nombre compressé
 |
-|-> les nombres compressé pourront être utiliser sous la forme de "données", représenté sur une intersection de deux plan en "tennis"
+|-> les nombres compressé pourront être utiliser sous la forme de "données", représenté sur une intersection de deux plan en "tennis" (08/06/2022)
 
 terminé : 
 *patch du code sur les pourcentage qui compait certain nombres premier alors qu'ils ne l'était pas, n'influe presque pas les résultats
