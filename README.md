@@ -3,7 +3,9 @@ mes théorises, idées, questions sur les maths...
 
 en cours de réalistaiton :
 symbole doiniers, -> chapitre 3 : espace doinier avec "création d'ensemble" pour définir des infinité
-                  -> chappitre 4: nombre compressé 
+                  -> chappitre 4: nombre compressé
+|
+|-> les nombres compressé pourront être utiliser sous la forme de "données", représenté sur une intersection de deux plan en "tennis"
 
 terminé : 
 *patch du code sur les pourcentage qui compait certain nombres premier alors qu'ils ne l'était pas, n'influe presque pas les résultats
