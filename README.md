@@ -14,6 +14,10 @@ symbole doiniers, -> chapitre 3 : espace doinier avec "création d'ensemble" pou
 |
 |-> les nombres compressé pourront être utiliser sous la forme de "données", représenté sur une intersection de deux plan en "tennis" (08/06/2022)
 
+idées :
+
+i < 1 ? (sous ensemble négatif, ensembles doinniers)
+
 
 terminé : 
 *patch du code sur les pourcentage qui compait certain nombres premier alors qu'ils ne l'était pas, n'influe presque pas les résultats
