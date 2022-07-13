@@ -1,15 +1,14 @@
 
 def primedetector(entry):
     
-    if n == 1:
+    if entry == 1:
         return False
-    elif n < 10:
-        for i in range(2, n):
-            if n % i == 0:
+    elif entry < 10:
+        for i in range(2, entry):
+            if entry % i == 0:
                 return False 
-    elif n >= 10:
-        for i in range(2,int(n**0.5)):
-            if n % i == 0:
+    elif entry >= 10:
+            if entry % i == 0:
                 return False
     
     return True
