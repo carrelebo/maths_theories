@@ -1,10 +1,13 @@
 
 def primedetector(entry):
     
-    for i in range(1, int((entry + 1)**0.5)):
-        if entry % i == 0:
+    if n == 1:
             return False
-    return True
+        for i in range(2,int(sqrt(n))):
+            if n % i == 0:
+                return False
+
+        return True
 
 onesnail = lambda s : 3*(10*s + 1) + 57
 
