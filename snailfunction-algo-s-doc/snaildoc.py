@@ -1,4 +1,5 @@
 
+from math import *
 def primedetector(entry):
     
     if n == 1:
