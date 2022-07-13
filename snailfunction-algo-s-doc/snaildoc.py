@@ -1,8 +1,16 @@
 
-def primedetector(entry):
-    for i in range(2, int((entry + 1)**0.5)):
-        if entry % i == 0:
-            return False
+def primedetector(n):
+    if n == 1:
+        return False
+    elif n < 10:
+        for i in range(2, n):
+            if n % i == 0:
+                return False 
+    elif n >= 10:
+        for i in range(2,int(n**0.5)):
+            if n % i == 0:
+                return False
+    
     return True
 
 onesnail = lambda s : 3*(10*s + 1) + 57
