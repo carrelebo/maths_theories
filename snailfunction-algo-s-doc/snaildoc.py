@@ -1,19 +1,9 @@
 
 def primedetector(entry):
-    
-    if entry == 1:
-        return False
-    elif entry < 10:
-        for i in range(2, entry):
-            if entry % i == 0:
-                return False 
-    elif entry >= 10:
-            if entry % i == 0:
-                return False
-    
+    for i in range(2, int((entry + 1)**0.5)):
+        if entry % i == 0:
+            return False
     return True
-
-
 
 onesnail = lambda s : 3*(10*s + 1) + 57
 
@@ -81,11 +71,9 @@ def eulerprimefunc():
 
 choose = int(input("""
 quelle fonction voulez vous utiliser pour les probabilités :
-
 [1] Euler nombres premiers chanceux
 [2] Onesnail
 [3] Twosnail
-
 numéro ? : """))
 
 if choose == 1:
